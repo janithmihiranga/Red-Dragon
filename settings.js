@@ -11,8 +11,31 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = ` 𝗛𝗜  𝗜'𝗠 🅳𝗦𝙵 S̷H͜͡A͞G░G༙྇Y҈☚˜ᵀᴹ 𝗕𝗢𝗧😇
+┏━━━━━✪✪━━━━━┓
+      bot online now
+┗━━━━━✪✪━━━━━┛
+▬▬▬▬▬▬▬▬▬ 100%
+
+┃ɪ ᴀᴍ 𝗗𝗘𝗩𝗜𝗟😼𝗕𝗢𝗧
+┃ɪ ᴀᴍ ᴄʀᴇᴀᴛᴏʀ 𝙹𝙰𝙽𝙸𝚃𝙷
+┃ ʜᴏᴡ ᴄᴀɴ ɪ ʜᴇʟᴘ ʏᴏᴜ💥
+┃▬▬▬▬▬▬▬▬▬┃
+┃│𝙂𝙧𝙤𝙪𝙥 𝙞𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣┃
+┃│🔰ᴳʳᵘᵒᵖ ᵐᵃᵈᵉ ᵇʸ 𝗝𝗔𝗡𝗜𝗧𝗛✔
+┃│🔰ᵍʳᵘᵒᵖ ⁿᵃᵐᵉ💝𝗝𝗔𝗡𝗜𝗧𝗛 𝗕𝗢𝗧ˡ💝
+┃│sᴘᴇᴇᴅ 100%
+┃│▰▰▰▰▰▰▰▰▰▰▰▰▰
+┃│💠💠💠💠💠
+┃│▰▰▰▰▰▰▰▰▰
+┃│◌◌⛁⛁◌◌⛁⛁◌◌
+
+┏━━━━━✿✿━━━━━┓
+     👨‍💻ᴏɴʟɪɴᴇ ʙᴏᴛ 👨‍💻
+┗━━━━━✿✿━━━━━┛
+
+༺═─⃝─⃟─⃟─⃟─⃟─⃟─⃟─⃟─⃟─⃟─⃟─⃟─⃝─═༻
+❤️⃟✦⃝̮̮̮̯̯̯😌janiya☸😌⃟⌘࿔⃝)  ` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,10 +52,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.vcardowner = ['+94727785006'] // owner number
+global.ownername = "☠️᳆⃞🇱🇰⃟ ʀͥᴇᷧᴀͫʟ☞𝐝𝐚𝐫𝐤 𝐬𝐡𝐚𝐠𝐠𝐲😌" // owner name
+global.ytname = "𝙳𝙺 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻" // yt chanel name
+global.socialm = "GitHub: 𝚓𝚊𝚗𝚒𝚝𝚑𝚖𝚒𝚑𝚒𝚛𝚊𝚗𝚐𝚊" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
@@ -47,13 +70,13 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.owner = ['+94727785006']
+global.ownertag = '+94727785006' //your tag number
+global.botname = '᳆⃞🇱🇰⃟ ʀͥᴇᷧᴀͫʟ☞𝐝𝐚𝐫𝐤 𝐬𝐡𝐚𝐠𝐠𝐲😌' //ur bot name
+global.packname = "𝚓𝚊𝚗𝚒✔Sticker" // sticker packname
+global.author = "🅼ᴀͭғɪͪʏ͢ᴀͤᴠᴇ͡✬͜𝙎𝙃𝘼𝙂𝙂𝙔🌙⃯™᭄" // sticker author
+global.dragonemoji = '☠️' // Menu emoji
+global.footer = '[ 𝚓𝚊𝚗𝚒𝚝𝚑 𝚠𝚊 ✰𝚖𝚍 ]' //
 
 //database
 global.premium = ['+380944814219'] //ur premium numbers
